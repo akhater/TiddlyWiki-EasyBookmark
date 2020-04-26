@@ -22,7 +22,7 @@ A TiddlyWiki bookmarking plugin that has for goal to create a **Bookmark** Tiddl
  
  # Credits
  * **__https://apiflash.com/__** for the free API for screenshots
- * **__http://textance.herokuapp.com/** for the free API to retreive website title
+ * **__http://textance.herokuapp.com/__** for the free API to retreive website title
  * **[TiddlyWiki community](https://groups.google.com/forum/#!forum/tiddlywiki)**
  * **[inmysocks](http://inmysocks.tiddlyspot.com/#New%20Tiddler%20Form)** for showing me how to use forms
  * **[Paulin Gjini](https://groups.google.com/forum/m/#!topic/tiddlywiki/E_X3KUHOvEk)** for the inspiration on the .js script
