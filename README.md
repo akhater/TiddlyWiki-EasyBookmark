@@ -23,7 +23,10 @@ A TiddlyWiki bookmarking plugin that has for goal to create a **Bookmark** Tiddl
  # Credits
  * **__https://apiflash.com/__** for the free API for screenshots
  * **__http://textance.herokuapp.com/** for the free API to retreive website title
- * **[TiddlyWiki community]**(https://groups.google.com/forum/#!forum/tiddlywiki)
+ * **[TiddlyWiki community](https://groups.google.com/forum/#!forum/tiddlywiki)**
+ 
+ # Discussion 
+ https://groups.google.com/forum/#!topic/tiddlywiki/pr42e29nwU8
  
  # N.B.
  I am totally new to all this so take everything with a grain of salt :)
