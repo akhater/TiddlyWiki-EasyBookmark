@@ -7,6 +7,9 @@ A TiddlyWiki bookmarking plugin that has for goal to create a **Bookmark** Tiddl
 * Can include a screenshot for the webpage thanks to __https://apiflash.com/__ API (get your API key for free)
 
 # Change log
+***2020-04-26***: v0.0.4
+* added URL encoding as per herokuapp.com api documentation
+* tagged New Bookmark as $:/tags/SideBar to make it show as per Mohammad Suggestion
 **2020-04-25**: v0.0.2 initial release
 
 # Installation
