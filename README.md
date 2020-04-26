@@ -7,7 +7,7 @@ A TiddlyWiki bookmarking plugin that has for goal to create a **Bookmark** Tiddl
 * Can include a screenshot for the webpage thanks to __https://apiflash.com/__ API (get your API key for free)
 
 # Change log
-**2020-04-20**: v0.0.2 initial release
+**2020-04-25**: v0.0.2 initial release
 
 # Installation
  Download the [JSON file](https://github.com/akhater/TiddlyWiki-EasyBookmark/blob/master/%24__ak_plugins_EasyBookmark.json) and drag/drop it in your TiddlyWiki
